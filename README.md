@@ -1,0 +1,1 @@
+# npm-qrcode_y
